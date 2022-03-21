@@ -1,7 +1,15 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to Paul JL Wu's vblog!
 
-![Image of fast.ai logo](images/logo.png)
+![7loops](images/7loops.png)
 
-## This is a title
+## What I plan to write here
+- bit and bite on what I learn of the day 
+- quarterly review and preview
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+## Objectives: upgrade 5% weekly, 10X in 2022 
+- Relationship: Leave happiness and inspiration to my wife and kids on each & every interaction
+- Finance: profit consistently in investment
+- Learning: read and write daily (15 min) and publish weekly
+- Expertise: practice principles in DL and Blockchain (30 min) 
+- Fun&Fit: toward blackbelt training (30 min)
+- Core: closed walk & talk with Him (wwww 15 + 15 + 15)
